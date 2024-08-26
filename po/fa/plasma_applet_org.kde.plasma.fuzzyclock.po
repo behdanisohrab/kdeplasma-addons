@@ -1,0 +1,890 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Safa Alfulaij <safa1996alfulaij@gmail.com>, 2014, 2017.
+# Zayed Al-Saidi <zayed.alsaidi@gmail.com>, 2021.
+# SPDX-FileCopyrightText: 2024 Sohrab Behdani <behdanisohrab@proton.me>
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-01-23 00:38+0000\n"
+"PO-Revision-Date: 2024-08-26 20:51+0330\n"
+"Last-Translator: Sohrab Behdani <behdanisohrab@proton.me>\n"
+"Language-Team: Persian <kde-i18n-doc@kde.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Lokalize 24.08.0\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgctxt "@title"
+msgid "Appearance"
+msgstr "ظاهر"
+
+#: package/contents/ui/configAppearance.qml:24
+#, kde-format
+msgctxt "@title:group"
+msgid "Font:"
+msgstr "قلم:"
+
+#: package/contents/ui/configAppearance.qml:25
+#, kde-format
+msgctxt "@option:check"
+msgid "Bold text"
+msgstr "متن برجسته"
+
+#: package/contents/ui/configAppearance.qml:30
+#, kde-format
+msgctxt "@option:check"
+msgid "Italic text"
+msgstr "متن مورب"
+
+#: package/contents/ui/configAppearance.qml:39
+#, kde-format
+msgctxt "@title:group"
+msgid "Fuzzyness:"
+msgstr "مبهم بودن"
+
+#: package/contents/ui/configAppearance.qml:49
+#, kde-format
+msgctxt "@item:inrange"
+msgid "Accurate"
+msgstr "دقت"
+
+#: package/contents/ui/configAppearance.qml:58
+#, kde-format
+msgctxt "@item:inrange"
+msgid "Fuzzy"
+msgstr "مبهم"
+
+#: package/contents/ui/FuzzyClock.qml:35
+#, kde-format
+msgid "One o’clock"
+msgstr "ساعت یک"
+
+#: package/contents/ui/FuzzyClock.qml:36
+#, kde-format
+msgid "Five past one"
+msgstr "یک و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:37
+#, kde-format
+msgid "Ten past one"
+msgstr "یک و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:38
+#, kde-format
+msgid "Quarter past one"
+msgstr "یک و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:39
+#, kde-format
+msgid "Twenty past one"
+msgstr "یک و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:40
+#, kde-format
+msgid "Twenty-five past one"
+msgstr "یک و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:41
+#, kde-format
+msgid "Half past one"
+msgstr "یک و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:42
+#, kde-format
+msgid "Twenty-five to two"
+msgstr "بیست و پنج دقیقه به دو"
+
+#: package/contents/ui/FuzzyClock.qml:43
+#, kde-format
+msgid "Twenty to two"
+msgstr "بیست دقیقه به دو"
+
+#: package/contents/ui/FuzzyClock.qml:44
+#, kde-format
+msgid "Quarter to two"
+msgstr "یک ربع به دو"
+
+#: package/contents/ui/FuzzyClock.qml:45
+#, kde-format
+msgid "Ten to two"
+msgstr "ده دقیقه به دو"
+
+#: package/contents/ui/FuzzyClock.qml:46
+#, kde-format
+msgid "Five to two"
+msgstr "پنج دقیقه به دو"
+
+#: package/contents/ui/FuzzyClock.qml:47
+#, kde-format
+msgid "Two o’clock"
+msgstr "دو"
+
+#: package/contents/ui/FuzzyClock.qml:48
+#, kde-format
+msgid "Five past two"
+msgstr "دو و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:49
+#, kde-format
+msgid "Ten past two"
+msgstr "دو و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:50
+#, kde-format
+msgid "Quarter past two"
+msgstr "دو و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:51
+#, kde-format
+msgid "Twenty past two"
+msgstr "دو و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:52
+#, kde-format
+msgid "Twenty-five past two"
+msgstr "دو و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:53
+#, kde-format
+msgid "Half past two"
+msgstr "دو و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:54
+#, kde-format
+msgid "Twenty-five to three"
+msgstr "بیست و پنج دقیقه به سه"
+
+#: package/contents/ui/FuzzyClock.qml:55
+#, kde-format
+msgid "Twenty to three"
+msgstr "بیست دقیقه به سه"
+
+#: package/contents/ui/FuzzyClock.qml:56
+#, kde-format
+msgid "Quarter to three"
+msgstr "یک ربع به سه"
+
+#: package/contents/ui/FuzzyClock.qml:57
+#, kde-format
+msgid "Ten to three"
+msgstr "ده دقیقه به سه"
+
+#: package/contents/ui/FuzzyClock.qml:58
+#, kde-format
+msgid "Five to three"
+msgstr "پنج دقیقه به سه"
+
+#: package/contents/ui/FuzzyClock.qml:59
+#, kde-format
+msgid "Three o’clock"
+msgstr "سه"
+
+#: package/contents/ui/FuzzyClock.qml:60
+#, kde-format
+msgid "Five past three"
+msgstr "سه و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:61
+#, kde-format
+msgid "Ten past three"
+msgstr "سه و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:62
+#, kde-format
+msgid "Quarter past three"
+msgstr "سه و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:63
+#, kde-format
+msgid "Twenty past three"
+msgstr "سه و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:64
+#, kde-format
+msgid "Twenty-five past three"
+msgstr "سه و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:65
+#, kde-format
+msgid "Half past three"
+msgstr "سه و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:66
+#, kde-format
+msgid "Twenty-five to four"
+msgstr "بیست و پنج دقیقه به چهار"
+
+#: package/contents/ui/FuzzyClock.qml:67
+#, kde-format
+msgid "Twenty to four"
+msgstr "بیست دقیقه به چهار"
+
+#: package/contents/ui/FuzzyClock.qml:68
+#, kde-format
+msgid "Quarter to four"
+msgstr "یک ربع به چهار"
+
+#: package/contents/ui/FuzzyClock.qml:69
+#, kde-format
+msgid "Ten to four"
+msgstr "ده دقیقه به چهار"
+
+#: package/contents/ui/FuzzyClock.qml:70
+#, kde-format
+msgid "Five to four"
+msgstr "پنج دقیقه به چهار"
+
+#: package/contents/ui/FuzzyClock.qml:71
+#, kde-format
+msgid "Four o’clock"
+msgstr "چهار"
+
+#: package/contents/ui/FuzzyClock.qml:72
+#, kde-format
+msgid "Five past four"
+msgstr "چهار و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:73
+#, kde-format
+msgid "Ten past four"
+msgstr "چهار و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:74
+#, kde-format
+msgid "Quarter past four"
+msgstr "چهار و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:75
+#, kde-format
+msgid "Twenty past four"
+msgstr "چهار و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:76
+#, kde-format
+msgid "Twenty-five past four"
+msgstr "چهار و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:77
+#, kde-format
+msgid "Half past four"
+msgstr "چهار و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:78
+#, kde-format
+msgid "Twenty-five to five"
+msgstr "بیست و پنج دقیقه به پنج"
+
+#: package/contents/ui/FuzzyClock.qml:79
+#, kde-format
+msgid "Twenty to five"
+msgstr "بیست دقیقه به پنج"
+
+#: package/contents/ui/FuzzyClock.qml:80
+#, kde-format
+msgid "Quarter to five"
+msgstr "یک ربع به پنج"
+
+#: package/contents/ui/FuzzyClock.qml:81
+#, kde-format
+msgid "Ten to five"
+msgstr "ده دقیقه به پنج"
+
+#: package/contents/ui/FuzzyClock.qml:82
+#, kde-format
+msgid "Five to five"
+msgstr "پنج دقیقه به پنج"
+
+#: package/contents/ui/FuzzyClock.qml:83
+#, kde-format
+msgid "Five o’clock"
+msgstr "پنج"
+
+#: package/contents/ui/FuzzyClock.qml:84
+#, kde-format
+msgid "Five past five"
+msgstr "پنج و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:85
+#, kde-format
+msgid "Ten past five"
+msgstr "پنج و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:86
+#, kde-format
+msgid "Quarter past five"
+msgstr "پنج و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:87
+#, kde-format
+msgid "Twenty past five"
+msgstr "پنج و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:88
+#, kde-format
+msgid "Twenty-five past five"
+msgstr "پنج و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:89
+#, kde-format
+msgid "Half past five"
+msgstr "پنج و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:90
+#, kde-format
+msgid "Twenty-five to six"
+msgstr "بیست و پنج دقیقه به شش"
+
+#: package/contents/ui/FuzzyClock.qml:91
+#, kde-format
+msgid "Twenty to six"
+msgstr "بیست دقیقه به شش"
+
+#: package/contents/ui/FuzzyClock.qml:92
+#, kde-format
+msgid "Quarter to six"
+msgstr "یک ربع به شش"
+
+#: package/contents/ui/FuzzyClock.qml:93
+#, kde-format
+msgid "Ten to six"
+msgstr "ده دقیقه به شش"
+
+#: package/contents/ui/FuzzyClock.qml:94
+#, kde-format
+msgid "Five to six"
+msgstr "پنج دقیقه به شش"
+
+#: package/contents/ui/FuzzyClock.qml:95
+#, kde-format
+msgid "Six o’clock"
+msgstr "شش"
+
+#: package/contents/ui/FuzzyClock.qml:96
+#, kde-format
+msgid "Five past six"
+msgstr "شش و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:97
+#, kde-format
+msgid "Ten past six"
+msgstr "شش و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:98
+#, kde-format
+msgid "Quarter past six"
+msgstr "شش و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:99
+#, kde-format
+msgid "Twenty past six"
+msgstr "شش و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:100
+#, kde-format
+msgid "Twenty-five past six"
+msgstr "شش و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:101
+#, kde-format
+msgid "Half past six"
+msgstr "شش و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:102
+#, kde-format
+msgid "Twenty-five to seven"
+msgstr "بیست و پنج دقیقه به هفت"
+
+#: package/contents/ui/FuzzyClock.qml:103
+#, kde-format
+msgid "Twenty to seven"
+msgstr "بیست دقیقه به هفت"
+
+#: package/contents/ui/FuzzyClock.qml:104
+#, kde-format
+msgid "Quarter to seven"
+msgstr "یک ربع به هفت"
+
+#: package/contents/ui/FuzzyClock.qml:105
+#, kde-format
+msgid "Ten to seven"
+msgstr "ده دقیقه به هفت"
+
+#: package/contents/ui/FuzzyClock.qml:106
+#, kde-format
+msgid "Five to seven"
+msgstr "پنج دقیقه به هفت"
+
+#: package/contents/ui/FuzzyClock.qml:107
+#, kde-format
+msgid "Seven o’clock"
+msgstr "هفت"
+
+#: package/contents/ui/FuzzyClock.qml:108
+#, kde-format
+msgid "Five past seven"
+msgstr "هفت و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:109
+#, kde-format
+msgid "Ten past seven"
+msgstr "هفت و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:110
+#, kde-format
+msgid "Quarter past seven"
+msgstr "هفت و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:111
+#, kde-format
+msgid "Twenty past seven"
+msgstr "هفت و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:112
+#, kde-format
+msgid "Twenty-five past seven"
+msgstr "هفت و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:113
+#, kde-format
+msgid "Half past seven"
+msgstr "هفت و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:114
+#, kde-format
+msgid "Twenty-five to eight"
+msgstr "بیست و پنج دقیقه به هشت"
+
+#: package/contents/ui/FuzzyClock.qml:115
+#, kde-format
+msgid "Twenty to eight"
+msgstr "بیست دقیقه به هشت"
+
+#: package/contents/ui/FuzzyClock.qml:116
+#, kde-format
+msgid "Quarter to eight"
+msgstr "یک ربع به هشت"
+
+#: package/contents/ui/FuzzyClock.qml:117
+#, kde-format
+msgid "Ten to eight"
+msgstr "ده دقیقه به هشت"
+
+#: package/contents/ui/FuzzyClock.qml:118
+#, kde-format
+msgid "Five to eight"
+msgstr "پنج دقیقه به هشت"
+
+#: package/contents/ui/FuzzyClock.qml:119
+#, kde-format
+msgid "Eight o’clock"
+msgstr "هشت"
+
+#: package/contents/ui/FuzzyClock.qml:120
+#, kde-format
+msgid "Five past eight"
+msgstr "هشت و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:121
+#, kde-format
+msgid "Ten past eight"
+msgstr "هشت و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:122
+#, kde-format
+msgid "Quarter past eight"
+msgstr "هشت و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:123
+#, kde-format
+msgid "Twenty past eight"
+msgstr "هشت و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:124
+#, kde-format
+msgid "Twenty-five past eight"
+msgstr "هشت و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:125
+#, kde-format
+msgid "Half past eight"
+msgstr "هشت و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:126
+#, kde-format
+msgid "Twenty-five to nine"
+msgstr "بیست و پنج دقیقه به نه"
+
+#: package/contents/ui/FuzzyClock.qml:127
+#, kde-format
+msgid "Twenty to nine"
+msgstr "بیست دقیقه به نه"
+
+#: package/contents/ui/FuzzyClock.qml:128
+#, kde-format
+msgid "Quarter to nine"
+msgstr "یک ربع به نه"
+
+#: package/contents/ui/FuzzyClock.qml:129
+#, kde-format
+msgid "Ten to nine"
+msgstr "ده دقیقه به نه"
+
+#: package/contents/ui/FuzzyClock.qml:130
+#, kde-format
+msgid "Five to nine"
+msgstr "پنج دقیقه به نه"
+
+#: package/contents/ui/FuzzyClock.qml:131
+#, kde-format
+msgid "Nine o’clock"
+msgstr "نه"
+
+#: package/contents/ui/FuzzyClock.qml:132
+#, kde-format
+msgid "Five past nine"
+msgstr "نه و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:133
+#, kde-format
+msgid "Ten past nine"
+msgstr "نه و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:134
+#, kde-format
+msgid "Quarter past nine"
+msgstr "نه و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:135
+#, kde-format
+msgid "Twenty past nine"
+msgstr "نه و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:136
+#, kde-format
+msgid "Twenty-five past nine"
+msgstr "نه و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:137
+#, kde-format
+msgid "Half past nine"
+msgstr "نه و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:138
+#, kde-format
+msgid "Twenty-five to ten"
+msgstr "بیست و پنج دقیقه به ده"
+
+#: package/contents/ui/FuzzyClock.qml:139
+#, kde-format
+msgid "Twenty to ten"
+msgstr "بیست دقیقه به ده"
+
+#: package/contents/ui/FuzzyClock.qml:140
+#, kde-format
+msgid "Quarter to ten"
+msgstr "یک ربع به ده"
+
+#: package/contents/ui/FuzzyClock.qml:141
+#, kde-format
+msgid "Ten to ten"
+msgstr "ده دقیقه به ده"
+
+#: package/contents/ui/FuzzyClock.qml:142
+#, kde-format
+msgid "Five to ten"
+msgstr "پنج دقیقه به ده"
+
+#: package/contents/ui/FuzzyClock.qml:143
+#, kde-format
+msgid "Ten o’clock"
+msgstr "ده"
+
+#: package/contents/ui/FuzzyClock.qml:144
+#, kde-format
+msgid "Five past ten"
+msgstr "ده و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:145
+#, kde-format
+msgid "Ten past ten"
+msgstr "ده و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:146
+#, kde-format
+msgid "Quarter past ten"
+msgstr "ده و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:147
+#, kde-format
+msgid "Twenty past ten"
+msgstr "ده و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:148
+#, kde-format
+msgid "Twenty-five past ten"
+msgstr "ده و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:149
+#, kde-format
+msgid "Half past ten"
+msgstr "ده و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:150
+#, kde-format
+msgid "Twenty-five to eleven"
+msgstr "بیست و پنج دقیقه به یازده"
+
+#: package/contents/ui/FuzzyClock.qml:151
+#, kde-format
+msgid "Twenty to eleven"
+msgstr "بیست دقیقه به یازده"
+
+#: package/contents/ui/FuzzyClock.qml:152
+#, kde-format
+msgid "Quarter to eleven"
+msgstr "یک ربع به یازده"
+
+#: package/contents/ui/FuzzyClock.qml:153
+#, kde-format
+msgid "Ten to eleven"
+msgstr "ده دقیقه به یازده"
+
+#: package/contents/ui/FuzzyClock.qml:154
+#, kde-format
+msgid "Five to eleven"
+msgstr "پنج دقیقه به یازده"
+
+#: package/contents/ui/FuzzyClock.qml:155
+#, kde-format
+msgid "Eleven o’clock"
+msgstr "یازده"
+
+#: package/contents/ui/FuzzyClock.qml:156
+#, kde-format
+msgid "Five past eleven"
+msgstr "یازده و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:157
+#, kde-format
+msgid "Ten past eleven"
+msgstr "یازده و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:158
+#, kde-format
+msgid "Quarter past eleven"
+msgstr "یازده و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:159
+#, kde-format
+msgid "Twenty past eleven"
+msgstr "یازده و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:160
+#, kde-format
+msgid "Twenty-five past eleven"
+msgstr "یازده و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:161
+#, kde-format
+msgid "Half past eleven"
+msgstr "یازده و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:162
+#, kde-format
+msgid "Twenty-five to twelve"
+msgstr "بیست و پنج دقیقه به دوازده"
+
+#: package/contents/ui/FuzzyClock.qml:163
+#, kde-format
+msgid "Twenty to twelve"
+msgstr "بیست دقیقه به دوازده"
+
+#: package/contents/ui/FuzzyClock.qml:164
+#, kde-format
+msgid "Quarter to twelve"
+msgstr "یک ربع به دوازده"
+
+#: package/contents/ui/FuzzyClock.qml:165
+#, kde-format
+msgid "Ten to twelve"
+msgstr "ده دقیقه به دوازده"
+
+#: package/contents/ui/FuzzyClock.qml:166
+#, kde-format
+msgid "Five to twelve"
+msgstr "پنج دقیقه به دوازده"
+
+#: package/contents/ui/FuzzyClock.qml:167
+#, kde-format
+msgid "Twelve o’clock"
+msgstr "دوازده"
+
+#: package/contents/ui/FuzzyClock.qml:168
+#, kde-format
+msgid "Five past twelve"
+msgstr "دوازده و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:169
+#, kde-format
+msgid "Ten past twelve"
+msgstr "دوازده و ده دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:170
+#, kde-format
+msgid "Quarter past twelve"
+msgstr "دوازده و ربع"
+
+#: package/contents/ui/FuzzyClock.qml:171
+#, kde-format
+msgid "Twenty past twelve"
+msgstr "دوازده و بیست دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:172
+#, kde-format
+msgid "Twenty-five past twelve"
+msgstr "دوازده و بیست و پنج دقیقه"
+
+#: package/contents/ui/FuzzyClock.qml:173
+#, kde-format
+msgid "Half past twelve"
+msgstr "دوازده و نیم"
+
+#: package/contents/ui/FuzzyClock.qml:174
+#, kde-format
+msgid "Twenty-five to one"
+msgstr "بیست و پنج دقیقه به یک"
+
+#: package/contents/ui/FuzzyClock.qml:175
+#, kde-format
+msgid "Twenty to one"
+msgstr "بیست دقیقه به یک"
+
+#: package/contents/ui/FuzzyClock.qml:176
+#, kde-format
+msgid "Quarter to one"
+msgstr "یک ربع به یک"
+
+#: package/contents/ui/FuzzyClock.qml:177
+#, kde-format
+msgid "Ten to one"
+msgstr "ده دقیقه به یک"
+
+#: package/contents/ui/FuzzyClock.qml:178
+#, kde-format
+msgid "Five to one"
+msgstr "پنج دقیقه به یک"
+
+#: package/contents/ui/FuzzyClock.qml:182
+#, kde-format
+msgid "Sleep"
+msgstr "خواب"
+
+#: package/contents/ui/FuzzyClock.qml:182
+#, kde-format
+msgid "Breakfast"
+msgstr "صبحانه"
+
+#: package/contents/ui/FuzzyClock.qml:182
+#, kde-format
+msgid "Second Breakfast"
+msgstr "صبحانه دوم"
+
+#: package/contents/ui/FuzzyClock.qml:182
+#, kde-format
+msgid "Elevenses"
+msgstr "یازده ها"
+
+#: package/contents/ui/FuzzyClock.qml:183
+#, kde-format
+msgid "Lunch"
+msgstr "نهار"
+
+#: package/contents/ui/FuzzyClock.qml:183
+#, kde-format
+msgid "Afternoon tea"
+msgstr "چای بعد از ظهر"
+
+#: package/contents/ui/FuzzyClock.qml:183
+#, kde-format
+msgid "Dinner"
+msgstr "شام"
+
+#: package/contents/ui/FuzzyClock.qml:183
+#, kde-format
+msgid "Supper"
+msgstr "شام دوم"
+
+#: package/contents/ui/FuzzyClock.qml:187
+#, kde-format
+msgid "Night"
+msgstr "شب"
+
+#: package/contents/ui/FuzzyClock.qml:187
+#, kde-format
+msgid "Early morning"
+msgstr "صبح زود"
+
+#: package/contents/ui/FuzzyClock.qml:187
+#, kde-format
+msgid "Morning"
+msgstr "صبح"
+
+#: package/contents/ui/FuzzyClock.qml:187
+#, kde-format
+msgid "Almost noon"
+msgstr "تقریباً ظهر"
+
+#: package/contents/ui/FuzzyClock.qml:188
+#, kde-format
+msgid "Noon"
+msgstr "ظهر"
+
+#: package/contents/ui/FuzzyClock.qml:188
+#, kde-format
+msgid "Afternoon"
+msgstr "بعد از ظهر"
+
+#: package/contents/ui/FuzzyClock.qml:188
+#, kde-format
+msgid "Evening"
+msgstr "عصر"
+
+#: package/contents/ui/FuzzyClock.qml:188
+#, kde-format
+msgid "Late evening"
+msgstr "اواخر عصر"
+
+#: package/contents/ui/FuzzyClock.qml:192
+#, kde-format
+msgid "Start of week"
+msgstr "شروع هفته"
+
+#: package/contents/ui/FuzzyClock.qml:192
+#, kde-format
+msgid "Middle of week"
+msgstr "وسط هفته"
+
+#: package/contents/ui/FuzzyClock.qml:192
+#, kde-format
+msgid "End of week"
+msgstr "آخر هفته"
+
+#: package/contents/ui/FuzzyClock.qml:192
+#, kde-format
+msgid "Weekend!"
+msgstr "آخر هفته!"
+
+#, fuzzy
+#~| msgid "Appearance"
+#~ msgctxt "@title:group"
+#~ msgid "Appearance"
+#~ msgstr "المظهر"
+
